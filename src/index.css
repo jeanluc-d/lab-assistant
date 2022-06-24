@@ -81,8 +81,7 @@ body::-webkit-scrollbar-thumb {
   left: 0;
   height: 50px;
   width: 100%;
-  background-color: #000 !important;
-  background: #000 !important;
+
   overflow: hidden;
   transition: all 0.5s ease-out, background 1s ease-out;
   transition-delay: 0.2s;
@@ -93,8 +92,6 @@ body::-webkit-scrollbar-thumb {
   display: inline-block;
   height: 50px;
   width: 100%;
-    background-color: #000 !important;
-  background: #000 !important;
   cursor: pointer;
   transform: rotate(0deg);
   transition: all 0.3s cubic-bezier(0.4, 0.01, 0.165, 0.99);
@@ -107,8 +104,6 @@ body::-webkit-scrollbar-thumb {
 .window .header .burger-container #burger {
   width: 18px;
   height: 8px;
-    background-color: #000 !important;
-  background: #000 !important;
   position: relative;
   display: block;
   margin: -4px auto 0;

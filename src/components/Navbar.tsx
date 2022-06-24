@@ -18,21 +18,18 @@ function Navbar() {
   return (
     <div
       id="header"
-      className={`w-screen bg-black header md:2/4 dark ${
-        isMenuOpen && "menu-opened"
+      className={`w-screen  header md:2/4 dark ${
+        isMenuOpen ? "menu-opened" : ""
       } `}
     >
-      <div
-        className="bg-black burger-container"
-        onClick={() => toggleMenuOpen()}
-      >
+      <div className=" burger-container" onClick={() => toggleMenuOpen()}>
         <div id="burger">
           <div className="bar topBar"></div>
           <div className="bar btmBar"></div>
         </div>
       </div>
 
-      <ul className="bg-black menu">
+      <ul className=" menu">
         <li className="menu-item"></li>
         <li className="menu-item">
           <button
