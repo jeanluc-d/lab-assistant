@@ -22,16 +22,17 @@ function Navbar() {
         isMenuOpen && "menu-opened"
       } w-screen bg-black header md:2/4 dark `}
     >
-      <div id="root"></div>
-
-      <div className="burger-container" onClick={() => toggleMenuOpen()}>
+      <div
+        className="bg-black burger-container"
+        onClick={() => toggleMenuOpen()}
+      >
         <div id="burger">
           <div className="bar topBar"></div>
           <div className="bar btmBar"></div>
         </div>
       </div>
 
-      <ul className="menu">
+      <ul className="bg-black menu">
         <li className="menu-item"></li>
         <li className="menu-item">
           <button
