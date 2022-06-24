@@ -36,6 +36,11 @@ input:focus {
   border-color: #fbbe5f;
 }
 
+bg-gray {
+  background-color: #333333 !important;
+  background: #333333 !important;
+}
+
 html,
 body,
 #root,
@@ -70,7 +75,7 @@ body::-webkit-scrollbar-thumb {
   display: block;
   width: 360px;
   height: 567px;
-  box-shadow: 0 0 65px 15px rgba(0, 0, 0, 0.2);
+ 
   border-radius: 3px;
   background: #f1f1f1;
 }
@@ -145,6 +150,8 @@ body::-webkit-scrollbar-thumb {
   list-style: none;
 }
 .window .header ul.menu li.menu-item {
+    background-color: #333333 !important;
+  background: #333333 !important;
   border-bottom: 1px solid #333;
   margin-top: 5px;
   transform: scale(1.15) translateY(-30px);

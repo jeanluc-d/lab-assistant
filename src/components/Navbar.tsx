@@ -18,23 +18,26 @@ function Navbar() {
   return (
     <div
       id="header"
-      className={`w-screen  header md:2/4 dark ${
-        isMenuOpen ? "menu-opened" : ""
+      className={`w-screen bg-gray header md:2/4 dark ${
+        isMenuOpen && "menu-opened"
       } `}
     >
-      <div className=" burger-container" onClick={() => toggleMenuOpen()}>
+      <div
+        className="bg-gray burger-container"
+        onClick={() => toggleMenuOpen()}
+      >
         <div id="burger">
           <div className="bar topBar"></div>
           <div className="bar btmBar"></div>
         </div>
       </div>
 
-      <ul className=" menu">
+      <ul className="bg-gray menu">
         <li className="menu-item"></li>
         <li className="menu-item">
           <button
             onClick={() => setNavOutput(NAV_OBJ["About"])}
-            className="w-full text-xl text-skin-main glow-on-hover "
+            className="w-full text-xl text-skin-main glow-on-hover bg-gray "
           >
             About
           </button>
@@ -42,7 +45,7 @@ function Navbar() {
         <li className="menu-item">
           <button
             onClick={() => setNavOutput(NAV_OBJ["Contributors"])}
-            className="w-full text-xl text-skin-main glow-on-hover"
+            className="w-full text-xl text-skin-main glow-on-hover bg-gray"
           >
             Contributors
           </button>
@@ -50,7 +53,7 @@ function Navbar() {
         <li className="menu-item">
           <button
             onClick={() => setNavOutput(NAV_OBJ["Contact"])}
-            className="w-full text-xl glow-on-hover text-skin-main"
+            className="w-full text-xl glow-on-hover bg-gray text-skin-main"
           >
             Contact
           </button>
