@@ -18,9 +18,9 @@ function Navbar() {
   return (
     <div
       id="header"
-      className={`${
+      className={`w-screen bg-black header md:2/4 dark ${
         isMenuOpen && "menu-opened"
-      } w-screen bg-black header md:2/4 dark `}
+      } `}
     >
       <div
         className="bg-black burger-container"
