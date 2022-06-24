@@ -36,7 +36,7 @@ input:focus {
   border-color: #fbbe5f;
 }
 
-bg-gray {
+.bg-gray {
   background-color: #333333 !important;
   background: #333333 !important;
 }
@@ -256,7 +256,7 @@ body::-webkit-scrollbar-thumb {
   border: none;
   outline: none;
   color: #fff;
-  background: #111;
+ 
   cursor: pointer;
   position: relative;
   z-index: 0;
@@ -310,7 +310,7 @@ body::-webkit-scrollbar-thumb {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: #000;
+
   left: 0;
   top: 0;
   border-radius: 10px;
