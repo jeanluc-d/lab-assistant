@@ -1,5 +1,5 @@
 <div>
-  <h1 align="left"><a href="">LabAssistant.app 🤖</a></h1>
+  <h1 align="left"><a href="">labassistant.app 🤖</a></h1>
   <strong>
    Built to aid medical students quickly reference the requirements of over 600 labs.
   </strong>
