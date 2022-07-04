@@ -52,9 +52,3 @@ To build the app, run:
 ```shell
 npm run build
 ```
-
-To build the app, run:
-
-```shell
-npm run build
-```
