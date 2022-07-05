@@ -1,26 +1,38 @@
 <div>
  <h1 align="left"><a href="https://epicreact.dev/fundamentals">Lab Assistant &#129514;</a></h1>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+ 
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+ <img height="28" src="https://www.pwa-shields.com/1.0.0/series/classic/solid/gray.svg"/>
  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"/>
- <br/> <br/>
- <p>Live demo: <a href="https://labassistant.app">labassistant.app</a></p>
-  <strong>
-   Built to aid medical students quickly reference the requirements of over 600 labs.
-  </strong>
-  <p>
-    Lab Assistant is a multinational collaborative React-based Progressive Web App created by students from Limerick University and Fanshawe College. Critical information can be accessed from the convenience of any device - even while offline!
-  </p>
-  <a >
-    <img
-      alt="Lab Assistant Logo"
-      width="200"
-      src="https://i.imgur.com/h01hekd.png"
-    />
-  </a>
-</div>
+ 
+ <br/>
+ <br/>
+ <p> Live demo: <a href="https://labassistant.app">https://labassistant.app</a> </p>
 
+ ## About
+
+Lab Assistant allows you to search for essential details required for any test conducted at University Hospital Limerick (Ireland). It eases the burden on medical students, allowing them to focus on their patients. Built using TypeScript and React. It is a Progressive Web App that utilizes a service worker. Critical information can be accessed from the convenience of any device - even while offline!  
+
+## Screenshots
+![Demo](https://imgur.com/8lK3tUb.gif)
+  <a >
+<img
+  alt="Lab Assistant Logo"
+  width="700"
+  src="https://imgur.com/4FTZIQg.png"
+  />
+</a>
+
+## Table of Content:
+
+- [About](#about)
+- [Table of Contents](#table-of-content)
+- [Screenshots](#screenshots)
+- [Setup](#setup)
+- [Credits](#credits)
+  
 ## Setup
 
 To get the node modules installed, run:
@@ -31,7 +43,7 @@ npm install
 
 ## Running the app
 
-To get the app up and running (default port 8080), run:
+To get the app up and running, run:
 
 ```shell
 npm start
@@ -52,3 +64,9 @@ To build the app, run:
 ```shell
 npm run build
 ```
+
+## Credits
+List of contriubutors:
+- [Bilal Almuhtadi](https://github.com/bilal-almuhtadi) (Extracted data in JSON format)
+
+</div>
