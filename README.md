@@ -15,12 +15,16 @@
 Lab Assistant allows you to search for essential details required for any test conducted at University Hospital Limerick (Ireland). It eases the burden on medical students, allowing them to focus on their patients. Built using TypeScript and React. It is a Progressive Web App that utilizes a service worker. Critical information can be accessed from the convenience of any device - even while offline!  
 
 ## Screenshots
-![Demo](https://imgur.com/8lK3tUb.gif)
   <a >
+  <img
+  alt="Lab Assistant Logo"
+  width="400"
+  src="/labAssistant.gif"
+  />
 <img
   alt="Lab Assistant Logo"
-  width="700"
-  src="https://imgur.com/4FTZIQg.png"
+  width="400"
+  src="/mocker.png"
   />
 </a>
 
@@ -67,5 +71,4 @@ npm run build
 ## Credits
 List of contriubutors:
 - [Bilal Almuhtadi](https://github.com/bilal-almuhtadi) (Extracted data in JSON format)
-
 </div>
