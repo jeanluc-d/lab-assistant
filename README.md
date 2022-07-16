@@ -23,8 +23,8 @@ Lab Assistant allows you to search for essential details required for any test c
   />
 <img
   alt="Lab Assistant Logo"
-  width="400"
-  src="/mocker.png"
+  width="700"
+  src="/mock-ups.png"
   />
 </a>
 
