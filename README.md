@@ -4,8 +4,7 @@
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
- <img height="28" src="https://www.pwa-shields.com/1.0.0/series/classic/solid/gray.svg"/>
- <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"/>
+ <a href="https://www.digitalocean.com/?refcode=520e23682440&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"> <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="DigitalOcean Referral Badge" /></a>
  
  <br/>
  <br/>
@@ -28,8 +27,8 @@ Lab Assistant allows you to search for essential details required for any test c
 ## Table of Content:
 
 - [About](#about)
-- [Table of Contents](#table-of-content)
 - [Screenshots](#screenshots)
+- [Table of Contents](#table-of-content)
 - [Setup](#setup)
 - [Credits](#credits)
   
