@@ -14,6 +14,15 @@
 
 Lab Assistant allows you to search for essential details required for any test conducted at University Hospital Limerick (Ireland). It eases the burden on medical students, allowing them to focus on their patients. Built using TypeScript and React. It is a Progressive Web App that utilizes a service worker. Critical information can be accessed from the convenience of any device - even while offline!  
 
+## Table of Content:
+
+- [About](#about)
+- [Table of Contents](#table-of-content)
+- [Screenshots](#screenshots)
+- [Setup](#setup)
+- [Credits](#credits)
+
+
 ## Screenshots
   <a >
   <img
@@ -27,14 +36,6 @@ Lab Assistant allows you to search for essential details required for any test c
   src="/mock-ups.png"
   />
 </a>
-
-## Table of Content:
-
-- [About](#about)
-- [Screenshots](#screenshots)
-- [Table of Contents](#table-of-content)
-- [Setup](#setup)
-- [Credits](#credits)
   
 ## Setup
 
