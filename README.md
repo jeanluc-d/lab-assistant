@@ -1,5 +1,5 @@
 <div>
- <h1 align="left"><a href="https://epicreact.dev/fundamentals">Lab Assistant &#129514;</a></h1>
+ <h1 align="left"><a href="https://labassistant.app">Lab Assistant &#129514;</a></h1>
  
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
